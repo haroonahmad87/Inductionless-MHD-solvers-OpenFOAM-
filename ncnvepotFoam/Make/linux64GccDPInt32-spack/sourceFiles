@@ -1,0 +1,4 @@
+SOURCE = \
+ncnvepotFoam.C \
+
+# sources
